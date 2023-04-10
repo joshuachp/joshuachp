@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### Some links
-
-- 🐘 <a rel="me" href="https://hachyderm.io/@joshuachp">@joshuachp on Mastodon</a>
